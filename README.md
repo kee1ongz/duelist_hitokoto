@@ -18,7 +18,7 @@ Powerd by：[hexo-ruby-character](https://github.com/jamespan/hexo-ruby-characte
 このカード名効果は１ターンに１度しか使用できない。モンスターがエクストラデッキからランダムに１体選ぶ。そのモンスター１体を召喚条件を無視して自分フィールドに特殊召喚する。
 ```
 
-![image-20210513162532643](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/duelistnohitokoto.png)
+![card](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/QQ截图20210514000048.jpg)
 
 **发动效果：**
 
