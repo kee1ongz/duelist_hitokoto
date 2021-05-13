@@ -18,7 +18,7 @@ Powerd by：[hexo-ruby-character](https://github.com/jamespan/hexo-ruby-characte
 このカード名効果は１ターンに１度しか使用できない。モンスターがエクストラデッキからランダムに１体選ぶ。そのモンスター１体を召喚条件を無視して自分フィールドに特殊召喚する。
 ```
 
-![card](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/QQ截图20210514000048.jpg)
+![image-20210514000308076](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/image-20210514000308076.png)
 
 **发动效果：**
 
@@ -54,10 +54,3 @@ Powerd by：[hexo-ruby-character](https://github.com/jamespan/hexo-ruby-characte
 - 支持JSON、XML等不同格式
 - 添加更多的台词
 - Ruby Template自动化生成
-
-  
-
-  
-
-  
-
