@@ -38,6 +38,7 @@ Powerd by：[hexo-ruby-character](https://github.com/jamespan/hexo-ruby-characte
 - 将`duel.txt`和`duelist_hitokoto.php`部署于你的环境上。
 
 - 直接访问`duelist_hitokoto.php`会输出带Ruby Template的台词：
+  
   ![image-20210513163620673](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/image-20210513163620673.png)
 
 - 外部页面调用用法，目前仅支持JS调用：
