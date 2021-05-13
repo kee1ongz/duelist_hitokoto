@@ -19,7 +19,7 @@ Powerd by：[hexo-ruby-character](https://github.com/jamespan/hexo-ruby-characte
 モンスターがエクストラデッキからランダムに１体選ぶ。そのモンスター１体を召喚条件を無視して自分フィールドに特殊召喚する。
 ```
 
-![image-20210514000308076](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/image-20210514000308076.png)
+<div align=center>![image-20210514000308076](https://kee1ongz.oss-cn-beijing.aliyuncs.com/img/image-20210514000308076.png)
 
 **发动效果：**
 
