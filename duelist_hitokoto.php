@@ -1,5 +1,5 @@
 <?php
-
+//Demo version.
 header('X-Powered-By:Kee1ongz');
 header('access-control-allow-origin:*');
 
