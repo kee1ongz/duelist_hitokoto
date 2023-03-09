@@ -1,5 +1,5 @@
 <?php
-//Demo version.
+//Demo version.Test for YOLO.
 header('X-Powered-By:Kee1ongz');
 header('access-control-allow-origin:*');
 
